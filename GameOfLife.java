@@ -104,5 +104,5 @@ class GameOfLife extends Program {
 	public static void main(String[] args){
 		Program.main(args);	
 	}
-	}  
+	  
 }
